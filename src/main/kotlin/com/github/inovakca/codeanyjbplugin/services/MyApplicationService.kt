@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.inovakca.codeanyjbplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.inovakca.codeanyjbplugin.MyBundle
 
 class MyApplicationService {
 
